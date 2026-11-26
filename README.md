@@ -24,10 +24,9 @@
 <!-- ✦ SOBRE MÍ ✦ -->
 <img src="https://readme-typing-svg.demolab.com?font=Abril+Fatface&size=36&color=D6197A&width=520&height=56&center=false&vCenter=true&lines=Sobre+m%C3%AD&duration=1&pause=100000&repeat=false" alt="Sobre mí" />
 
-- 🎓 Estudiante de **Ciencias de la Computación e Inteligencia Artificial** en la **Universidad Sergio Arboleda** (Bogotá, Colombia)
-- 📈 Cursando un **MBA en Dirección, Gestión y Análisis de Negocios Digitales**
+- 🎓 Grado en **Ciencias de la Computación e Inteligencia Artificial** en la **Universidad Sergio Arboleda** (Bogotá, Colombia) en curso.
+- 📈 Cursando un **MBA en Dirección, Gestión y Análisis de Negocios Digitales**  en la **Universidad Politécnica de Valencia (UPV)** (Valencia, España) 
 - 🔬 Me enfoco en **ciencia y análisis de datos, machine learning y soluciones con IA**
-- 🗣️ Representante estudiantil de mi programa ante el consejo académico
 - 🌱 Ahora mismo estoy aprendiendo: **LangChain, LangGraph y n8n**
 - 🌎 Idiomas: Español (nativo) · Inglés (C1)
 - 🧶 Dato curioso: me encantan el **yoga** y el **crochet** 🧘‍♀️
@@ -40,7 +39,6 @@
 <p align="left">
 <img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=20&color=C2185B&width=520&height=34&center=false&vCenter=true&lines=Lenguajes&weight=700&duration=1&pause=100000&repeat=false" alt="Lenguajes" /><br/>
   <img src="https://img.shields.io/badge/Python-C2185B?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/R-C2185B?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
   <img src="https://img.shields.io/badge/MySQL-C2185B?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/PostgreSQL-C2185B?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/HTML5-C2185B?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -64,6 +62,9 @@
   <img src="https://img.shields.io/badge/LangChain-E0218A?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
   <img src="https://img.shields.io/badge/LangGraph-E0218A?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph"/>
   <img src="https://img.shields.io/badge/n8n-E0218A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+    <img src="https://img.shields.io/badge/Claude-E0218A?style=for-the-badge&logo=claude&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/ChatGPT-E0218A?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMi4yODE5IDkuODIxMWE1Ljk4NDcgNS45ODQ3IDAgMCAwLS41MTU3LTQuOTEwOCA2LjA0NjIgNi4wNDYyIDAgMCAwLTYuNTA5OC0yLjlBNi4wNjUxIDYuMDY1MSAwIDAgMCA0Ljk4MDcgNC4xODE4YTUuOTg0NyA1Ljk4NDcgMCAwIDAtMy45OTc3IDIuOSA2LjA0NjIgNi4wNDYyIDAgMCAwIC43NDI3IDcuMDk2NiA1Ljk4IDUuOTggMCAwIDAgLjUxMSA0LjkxMDcgNi4wNTEgNi4wNTEgMCAwIDAgNi41MTQ2IDIuOTAwMUE1Ljk4NDcgNS45ODQ3IDAgMCAwIDEzLjI1OTkgMjRhNi4wNTU3IDYuMDU1NyAwIDAgMCA1Ljc3MTgtNC4yMDU4IDUuOTg5NCA1Ljk4OTQgMCAwIDAgMy45OTc3LTIuOTAwMSA2LjA1NTcgNi4wNTU3IDAgMCAwLS43NDc1LTcuMDcyOXptLTkuMDIyIDEyLjYwODFhNC40NzU1IDQuNDc1NSAwIDAgMS0yLjg3NjQtMS4wNDA4bC4xNDE5LS4wODA0IDQuNzc4My0yLjc1ODJhLjc5NDguNzk0OCAwIDAgMCAuMzkyNy0uNjgxM3YtNi43MzY5bDIuMDIgMS4xNjg2YS4wNzEuMDcxIDAgMCAxIC4wMzguMDUydjUuNTgyNmE0LjUwNCA0LjUwNCAwIDAgMS00LjQ5NDUgNC40OTQ0em0tOS42NjA3LTQuMTI1NGE0LjQ3MDggNC40NzA4IDAgMCAxLS41MzQ2LTMuMDEzN2wuMTQyLjA4NTIgNC43ODMgMi43NTgyYS43NzEyLjc3MTIgMCAwIDAgLjc4MDYgMGw1Ljg0MjgtMy4zNjg1djIuMzMyNGEuMDgwNC4wODA0IDAgMCAxLS4wMzMyLjA2MTVMOS43NCAxOS45NTAyYTQuNDk5MiA0LjQ5OTIgMCAwIDEtNi4xNDA4LTEuNjQ2NHpNMi4zNDA4IDcuODk1NmE0LjQ4NSA0LjQ4NSAwIDAgMSAyLjM2NTUtMS45NzI4VjExLjZhLjc2NjQuNzY2NCAwIDAgMCAuMzg3OS42NzY1bDUuODE0NCAzLjM1NDMtMi4wMjAxIDEuMTY4NWEuMDc1Ny4wNzU3IDAgMCAxLS4wNzEgMGwtNC44MzAzLTIuNzg2NUE0LjUwNCA0LjUwNCAwIDAgMSAyLjM0MDggNy44NzJ6bTE2LjU5NjMgMy44NTU4TDEzLjEwMzggOC4zNjQgMTUuMTE5MiA3LjJhLjA3NTcuMDc1NyAwIDAgMSAuMDcxIDBsNC44MzAzIDIuNzkxM2E0LjQ5NDQgNC40OTQ0IDAgMCAxLS42NzY1IDguMTA0MnYtNS42NzcyYS43OS43OSAwIDAgMC0uNDA3LS42Njd6bTIuMDEwNy0zLjAyMzFsLS4xNDItLjA4NTItNC43NzM1LTIuNzgxOGEuNzc1OS43NzU5IDAgMCAwLS43ODU0IDBMOS40MDkgOS4yMjk3VjYuODk3NGEuMDY2Mi4wNjYyIDAgMCAxIC4wMjg0LS4wNjE1bDQuODMwMy0yLjc4NjZhNC40OTkyIDQuNDk5MiAwIDAgMSA2LjY4MDIgNC42NnpNOC4zMDY1IDEyLjg2M2wtMi4wMi0xLjE2MzhhLjA4MDQuMDgwNCAwIDAgMS0uMDM4LS4wNTY3VjYuMDc0MmE0LjQ5OTIgNC40OTkyIDAgMCAxIDcuMzc1Ny0zLjQ1MzdsLS4xNDIuMDgwNUw4LjcwNCA1LjQ1OWEuNzk0OC43OTQ4IDAgMCAwLS4zOTI3LjY4MTN6bTEuMDk3Ni0yLjM2NTRsMi42MDItMS40OTk4IDIuNjA2OSAxLjQ5OTh2Mi45OTk0bC0yLjU5NzQgMS40OTk3LTIuNjA2Ny0xLjQ5OTdaIi8+PC9zdmc+&logoColor=white" alt="ChatGPT"/>
+  <img src="https://img.shields.io/badge/Higgsfield-E0218A?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAxLjVjLjYgNC45IDIuNiA3LjkgOS41IDkuNS02LjkgMS42LTguOSA0LjYtOS41IDkuNS0uNi00LjktMi42LTcuOS05LjUtOS41IDYuOS0xLjYgOC45LTQuNiA5LjUtOS41eiIvPjxwYXRoIGQ9Ik0xOS41IDE1LjVjLjMgMiAxIDMgMyAzLjUtMiAuNS0yLjcgMS41LTMgMy41LS4zLTItMS0zLTMtMy41IDItLjUgMi43LTEuNSAzLTMuNXoiLz48L3N2Zz4=&logoColor=white" alt="Higgsfield"/>
 </p>
 
 <p align="left">
@@ -71,7 +72,6 @@
   <img src="https://img.shields.io/badge/Git-EC4899?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-EC4899?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/VS%20Code-EC4899?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTggNSAxLjUgMTIgOCAxOU0xNiA1bDYuNSA3TDE2IDE5IiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIuNiIgZmlsbD0ibm9uZSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+PC9zdmc+&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Anaconda-EC4899?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"/>
   <img src="https://img.shields.io/badge/Linux-EC4899?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
   <img src="https://img.shields.io/badge/Docker-EC4899?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
