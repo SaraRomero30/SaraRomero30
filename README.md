@@ -1,9 +1,4 @@
-<!-- =========================================================
-  🌸 README de perfil · Sara Sofía Romero
-  1. Crea un repositorio público llamado EXACTAMENTE como tu usuario de GitHub.
-  2. Pega este archivo como README.md.
-  3. Cambia TU_CORREO por tu correo.
-  ========================================================= -->
+
 
 <!-- ✦ CABECERA ✦ -->
 <p align="center">
