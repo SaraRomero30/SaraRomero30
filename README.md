@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sara-sof%C3%ADa-romero-alfonso-8410ab303"><img src="https://img.shields.io/badge/LinkedIn-D6197A?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NSAyMC40NWgtMy41NnYtNS41N2MwLTEuMzMtLjAyLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjE0IDEuNDUtMi4xNCAyLjk0djUuNjdIOS4zNVY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMyAyLjA2IDIuMDYgMCAwIDEgMCA0LjEzek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1ek0yMi4yMiAwSDEuNzdDLjc5IDAgMCAuNzcgMCAxLjczdjIwLjU0QzAgMjMuMjMuNzkgMjQgMS43NyAyNGgyMC40NWMuOTggMCAxLjc4LS43NyAxLjc4LTEuNzNWMS43M0MyNCAuNzcgMjMuMiAwIDIyLjIyIDB6Ii8+PC9zdmc+&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:TU_CORREO@gmail.com"><img src="https://img.shields.io/badge/Correo-EC4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo"/></a>
+  <a href="mailto:03186sarasofia@gmail.com"><img src="https://img.shields.io/badge/Correo-EC4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo"/></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FCE4F0,50:E0218A,100:FCE4F0&height=3" width="100%" alt="" />
