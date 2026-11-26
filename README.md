@@ -24,12 +24,14 @@
 <!-- ✦ SOBRE MÍ ✦ -->
 <img src="https://readme-typing-svg.demolab.com?font=Abril+Fatface&size=36&color=D6197A&width=520&height=56&center=false&vCenter=true&lines=Sobre+m%C3%AD&duration=1&pause=100000&repeat=false" alt="Sobre mí" />
 
-- 🎓 Grado en **Ciencias de la Computación e Inteligencia Artificial** en la **Universidad Sergio Arboleda** (Bogotá, Colombia) en curso.
-- 📈 Cursando un **MBA en Dirección, Gestión y Análisis de Negocios Digitales**  en la **Universidad Politécnica de Valencia (UPV)** (Valencia, España) 
-- 🔬 Me enfoco en **ciencia y análisis de datos, machine learning y soluciones con IA**
-- 🌱 Ahora mismo estoy aprendiendo: **LangChain, LangGraph y n8n**
-- 🌎 Idiomas: Español (nativo) · Inglés (C1)
-- 🧶 Dato curioso: me encantan el **yoga** y el **crochet** 🧘‍♀️
+Actualmente estoy finalizando mi grado en Ciencias de la Computación e Inteligencia Artificial en la Universidad Sergio Arboleda (Bogotá, Colombia) y cursando un MBA en Dirección, Gestión y Análisis de Negocios Digitales en la Universitat Politècnica de València (UPV) (Valencia, España).
+
+Mis principales áreas de interés son la ciencia y el análisis de datos, el Machine Learning y el desarrollo de soluciones basadas en Inteligencia Artificial. Me interesa explorar cómo la tecnología y los datos pueden transformarse en soluciones innovadoras que generen valor. Fuera del ámbito tecnológico, disfruto del yoga y el crochet.
+
+♡ Actualmente aprendiendo: LangChain, LangGraph y n8n.
+
+♡ Idiomas: Español (nativo), Inglés ([nivel]).
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FCE4F0,50:E0218A,100:FCE4F0&height=3" width="100%" alt="" />
 
@@ -79,5 +81,5 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FCE4F0,50:E0218A,100:FCE4F0&height=3" width="100%" alt="" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Abril+Fatface&size=24&color=D6197A&width=520&height=44&center=true&vCenter=true&lines=Gracias+por+visitar+mi+perfil&duration=1&pause=100000&repeat=false" alt="Gracias por visitar mi perfil" />
+  <img src="https://readme-typing-svg.demolab.com?font=Abril+Fatface&size=24&color=D6197A&width=520&height=44&center=true&vCenter=true&lines=Gracias+por+visitar+mi+perfil&duration=1&pause=100000&repeat=false" alt="♡ Gracias por visitar mi perfil ♡" />
 </p>
